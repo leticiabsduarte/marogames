@@ -49,7 +49,7 @@
 }
 
 @keyframes jump {
-    o% {
+    0% {
         bottom: 0;
     }
 
