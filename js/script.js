@@ -9,7 +9,7 @@ const jump = () => {
         mario.classList.remove('jump');
     }, 500);
 }
-
+   
 const loop = setInterval(() => {
     
     const pipePosition = pipe.offsetLeft;
